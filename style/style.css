@@ -180,7 +180,7 @@ span{
 
      /**Start section panel2 CSS**/
 .panel2{
-    background-image: url(/images/background_hero.jpg);
+    background-image: url(../images/background_hero.jpg);
     height: 400px;
     background-size: cover;
     border: none;
