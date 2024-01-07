@@ -108,7 +108,7 @@ nav{
 }
 
 .bd-flag{
-    background-image: url(/images/bd_flag.png);
+    background-image: url(../images/bd_flag.png);
     width: 21.6px;
     height: 1rem;
     background-size: cover;
